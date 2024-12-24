@@ -4,7 +4,7 @@
     "os": false,
     "path": false
   },
-  "name": "@implycitt/congressionalappchallenge",
+  "name": "@implycitt/OpenMeteo",
   "version": "0.0.0",
   "description": "App for the Congressional App Challenge.",
   "main": "electron.js",
@@ -20,10 +20,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Implycitt/CongressionalAppChallenge.git"
+    "url": "git+https://github.com/Implycitt/OpenMeteo.git"
   },
   "keywords": [
-    "congressionalappchallenge"
+    "OpenMeteo"
   ],
   "author": "Quentin",
   "contributors": [
@@ -31,16 +31,12 @@
       "name": "Quentin Bordelon",
       "email": "qgbordelon@gmail.com"
     },
-    {
-      "name": "Damien Vesper",
-      "email": "ldamienvesper@gmail.com"
-    }
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Implycitt/CongressionalAppChallenge/issues"
+    "url": "https://github.com/Implycitt/OpenMeteo/issues"
   },
-  "homepage": "https://github.com/Implycitt/CongressionalAppChallenge#readme",
+  "homepage": "https://github.com/Implycitt/OpenMeteo#readme",
   "devDependencies": {
     "@babel/core": "^7.23.2",
     "@babel/eslint-parser": "^7.22.15",
@@ -66,9 +62,9 @@
     "postcss-loader": "^7.3.3",
     "postcss-preset-env": "^9.2.0",
     "style-loader": "^3.3.3",
-    "webpack": "^5.89.0",
-    "webpack-cli": "^5.1.4",
-    "webpack-dev-server": "^4.15.1",
+    "webpack": "^5.97.1",
+    "webpack-cli": "^6.0.1",
+    "webpack-dev-server": "^5.2.0",
     "webpack-manifest-plugin": "^5.0.0",
     "webpack-merge": "^5.10.0"
   },
@@ -85,8 +81,8 @@
     "three.interactive": "^1.7.0"
   },
   "build": {
-    "appId": "com.CAC.app",
-    "productName": "CongressionalAppChallenge",
+    "appId": "com.OpenMeteo.app",
+    "productName": "OpenMeteo",
     "target": "NSIS",
     "directory": {
       "output": ".package"
