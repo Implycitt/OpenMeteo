@@ -1,0 +1,24 @@
+{
+    "env": {
+        "browser": true,
+        "es2022": true
+    },
+    "extends": [
+        "eslint:recommended",
+        "standard"
+    ],
+    "parser": "@babel/eslint-parser",
+    "parserOptions": {
+        "requireConfigFile": false
+    },
+    "rules": {
+        "indent": [1, 4, { "SwitchCase": 1 }],
+        "semi": [1, "always"],
+        "quotes": [1, "double", "avoid-escape"],
+        "prefer-arrow-callback": 1,
+        "prefer-template": 1,
+        "curly": 0,
+        "camelcase": 0,
+        "import/no-webpack-loader-syntax": 0
+    }
+}
