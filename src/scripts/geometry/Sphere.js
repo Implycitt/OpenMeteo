@@ -124,7 +124,7 @@ export const createSphere = (core) => {
             exit.setAttribute("hidden", "");
             document.getElementById("rem").setAttribute("hidden", "");
             document.getElementById("container").setAttribute("hidden", "");
-            document.getElementById("searching").setAttribute("hidden", "");
+            document.getElementById("searchButton").setAttribute("hidden", "");
 
             if (document.getElementById("weather") != null) {
                 document.getElementById("weather").style.display = "none";

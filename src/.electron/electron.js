@@ -4,7 +4,7 @@ let createWindow = () => {
     win = new BrowserWindow({
         width: 800,
         height: 600,
-        title: "Congressional App Challenge",
+        title: "OpenMeteo",
         webPreferences: {
             nodeIntegration: true,
             contextIsolation: false

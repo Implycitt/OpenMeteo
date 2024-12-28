@@ -6,7 +6,7 @@
   },
   "name": "@implycitt/OpenMeteo",
   "version": "0.0.0",
-  "description": "App for the Congressional App Challenge.",
+  "description": "OpenMeteo",
   "main": "electron.js",
   "scripts": {
     "build": "pnpm build:webpack && pnpm package",
@@ -15,22 +15,22 @@
     "dev": "webpack serve --config ./webpack/webpack.dev.js",
     "lint": "eslint . --ext .js --fix",
     "lint:ci": "eslint . --ext .js",
-    "package": "electron-packager dist congressionalappchallenge --out=.package --overwrite --win32 --timestamp=none",
-    "package:dev": "electron-packager dist congressionalappchallenge --out=.package --overwrite"
+    "package": "electron-packager dist OpenMeteo --out=.package --overwrite --win32 --timestamp=none",
+    "package:dev": "electron-packager dist OpenMeteo --out=.package --overwrite"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Implycitt/OpenMeteo.git"
   },
   "keywords": [
-    "OpenMeteo"
+    "congressionalappchallenge"
   ],
   "author": "Quentin",
   "contributors": [
     {
       "name": "Quentin Bordelon",
       "email": "qgbordelon@gmail.com"
-    },
+    }
   ],
   "license": "MIT",
   "bugs": {
@@ -81,8 +81,8 @@
     "three.interactive": "^1.7.0"
   },
   "build": {
-    "appId": "com.OpenMeteo.app",
-    "productName": "OpenMeteo",
+    "appId": "com.CAC.app",
+    "productName": "CongressionalAppChallenge",
     "target": "NSIS",
     "directory": {
       "output": ".package"
