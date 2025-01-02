@@ -232,7 +232,7 @@ div.row {
   position: relative;
 }
 
-.searchButton {
+.searching {
   color: white;
   position: absolute;
   right: 8px;
@@ -264,5 +264,17 @@ button:active {
   color: white;
   font-size: 15px;
   padding: 24px 46px 24px 26px;
+}
+
+.resultsBox ul {
+  border-top: 1px solid #999;
+  padding: 15px 10px;
+}
+
+.resultsBox ul li {
+  list-style: none;
+  border-radius: 3px;
+  padding: 15px 10px;
+  cursor: pointer;
 }
 
