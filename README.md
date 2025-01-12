@@ -38,7 +38,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![OpenMeteo][OpenMeteo-screenshot]]
+![OpenMeteo][OpenMeteo-screenshot]
 
 OpenMeteo is a weather application with 3d models which displays the current, lowest, and highest temperature, wind speed, precipitation and other data in any location. Fork and updated version of my 2023 Congressional App Challenge submission.
 
