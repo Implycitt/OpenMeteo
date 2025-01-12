@@ -10,7 +10,7 @@
   <a href="https://github.com/Implycitt/OpenMeteo"></a>
 <h3 align="center">OpenMeteo</h3>
   <p align="center">
-    Weather application. Fork and fixed version of my 2023 Congressional App Challenge submission.
+    Weather application. Fork and updated version of my 2023 Congressional App Challenge submission.
     <br />
   </p>
 </div>
@@ -33,7 +33,6 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#license">License</a></li>
   </ol>
@@ -43,7 +42,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-talk about the project
+[![OpenMeteo][OpenMeteo-screenshot]]
+
+OpenMeteo is a weather application with 3d models which displays the current, lowest, and highest temperature, wind speed, precipitation and other data in any location.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -87,14 +88,6 @@ alternatively, download the the latest [release](https://github.com/Implycitt/Op
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 <!-- ROADMAP -->
 ## Roadmap
 
@@ -123,3 +116,4 @@ Distributed under the MIT license. See `LICENSE.txt` for more information.
 [Three-url]: https://threejs.org/
 [Electron.js]: https://img.shields.io/badge/Electron-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [Electron-url]: https://electronjs.org/
+[OpenMeteo-screenshot]: images/OpenMeteo
