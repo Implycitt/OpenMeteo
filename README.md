@@ -1,9 +1,7 @@
-<div align="center">
-  <a id="readme-top"></a>
-  [![Forks][forks-shield]][forks-url]
-  [![Stargazers][stars-shield]][stars-url]
-  [![MIT license][license-shield]][license-url]
-</div>
+<a id="readme-top"></a>
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![MIT license][license-shield]][license-url]
 
 
 <!-- PROJECT LOGO -->
@@ -40,7 +38,6 @@
     <li><a href="#license">License</a></li>
   </ol>
 </details>
-
 
 
 <!-- ABOUT THE PROJECT -->
@@ -122,7 +119,7 @@ Distributed under the MIT license. See `LICENSE.txt` for more information.
 [stars-url]: https://github.com/Implycitt/OpenMeteo/stargazers
 [license-shield]: https://img.shields.io/github/license/Implycitt/OpenMeteo.svg?style=for-the-badge
 [license-url]: https://github.com/Implycitt/OpenMeteo/blob/master/LICENSE.txt
-[Three.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white
+[Three.js]: https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white
 [Three-url]: https://threejs.org/
 [Electron.js]: https://img.shields.io/badge/Electron-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [Electron-url]: https://electronjs.org/
