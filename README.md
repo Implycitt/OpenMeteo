@@ -8,11 +8,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Implycitt/OpenMeteo"></a>
-<h3 align="center">OpenMeteo</h3>
-  <p align="center">
-    Weather application. Fork and updated version of my 2023 Congressional App Challenge submission.
-    <br />
-  </p>
+  <h3 align="center">OpenMeteo</h3>
 </div>
 
 
@@ -44,7 +40,7 @@
 
 [![OpenMeteo][OpenMeteo-screenshot]]
 
-OpenMeteo is a weather application with 3d models which displays the current, lowest, and highest temperature, wind speed, precipitation and other data in any location.
+OpenMeteo is a weather application with 3d models which displays the current, lowest, and highest temperature, wind speed, precipitation and other data in any location. Fork and updated version of my 2023 Congressional App Challenge submission.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -116,4 +112,4 @@ Distributed under the MIT license. See `LICENSE.txt` for more information.
 [Three-url]: https://threejs.org/
 [Electron.js]: https://img.shields.io/badge/Electron-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [Electron-url]: https://electronjs.org/
-[OpenMeteo-screenshot]: images/OpenMeteo
+[OpenMeteo-screenshot]: images/OpenMeteo.mp4
