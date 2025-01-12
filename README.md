@@ -112,4 +112,4 @@ Distributed under the MIT license. See `LICENSE.txt` for more information.
 [Three-url]: https://threejs.org/
 [Electron.js]: https://img.shields.io/badge/Electron-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [Electron-url]: https://electronjs.org/
-[OpenMeteo-screenshot]: images/OpenMeteo.mp4
+[OpenMeteo-screenshot]: images/OpenMeteo.gif
