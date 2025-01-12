@@ -1,18 +1,16 @@
-<a id="readme-top"></a>
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![MIT license][license-shield]][license-url]
+<div align="center">
+  <a id="readme-top"></a>
+  [![Forks][forks-shield]][forks-url]
+  [![Stargazers][stars-shield]][stars-url]
+  [![MIT license][license-shield]][license-url]
+</div>
 
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Implycitt/OpenMeteo">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
+  <a href="https://github.com/Implycitt/OpenMeteo"></a>
 <h3 align="center">OpenMeteo</h3>
-
   <p align="center">
     Weather application. Fork and fixed version of my 2023 Congressional App Challenge submission.
     <br />
@@ -48,7 +46,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Here's a blank template to get started. To avoid retyping too much info, do a search and replace with your text editor for the following: `Implycitt`, `OpenMeteo`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `OpenMeteo`, `project_description`, `MIT license`
+talk about the project
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
